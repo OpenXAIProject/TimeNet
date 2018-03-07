@@ -10,6 +10,8 @@ Get Time Series Data from <http://www.cs.ucr.edu/~eamonn/time_series_data/>   Or
 
 > TimeNet Project is based on XAI Project
 
+
+
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 
 # XAI Project 

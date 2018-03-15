@@ -43,7 +43,6 @@ DATAS = []
 data_size = 50
 max_classes = 60
 
-
 def customized_rnn_seq2seq(encoder_inputs,
                           decoder_inputs,
                           cell,
@@ -301,4 +300,3 @@ finish_time = datetime.datetime.now()
 print("start   : ", init_time.strftime("%Y-%m-%d-%Hh-%Mm"))
 print("finish  : ", finish_time.strftime("%Y-%m-%d-%Hh-%Mm"))
 print("Total Running Time : {}".format(finish_time - init_time))
-

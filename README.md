@@ -21,6 +21,6 @@ Get Time Series Data from <http://www.cs.ucr.edu/~eamonn/time_series_data/>   Or
 ### **Managed by** 
 > Ministry of Science and ICT/XAIC
 ### **Participated Affiliation** 
-> UNIST, Korean Univ., Yonsei Univ., KAIST., AItrics
+> UNIST, Korea Univ., Yonsei Univ., KAIST., AItrics
 ### **Web Site** 
 > <http://openXai.org>
